@@ -106,9 +106,18 @@ Mermaid
   gantt
   dateFormat DD
   title work_project
-  section test
+
+  section First
   one:done,do1,01,02
   two:done,do2,03,05
   three:active,do3,after do2,5d
 
+  section Second
+  four:active,do4,after do1,3d
+  five:done,do5,09,18
+
+  section Third
+  six:crit,31
+  seven:done,do6,09,14
+  
   ```
