@@ -59,10 +59,10 @@ Mermaid
 * PIE
   ```mermaid
   pie
-  title Mathes
-  "English": 60
+  title Learning_plan
+  "English": 30
   "Mathes":30
-  "Political":10
+  "Programming":40
   ```
 ---
 * graph
@@ -108,8 +108,8 @@ Mermaid
   title work_project
 
   section First
-  one:done,do1,01,02
-  two:done,do2,03,05
+  one:done,do1,01,04
+  two:done,do2,07,10
   three:active,do3,after do2,5d
 
   section Second
@@ -121,3 +121,4 @@ Mermaid
   seven:done,do6,09,14
   
   ```
+
