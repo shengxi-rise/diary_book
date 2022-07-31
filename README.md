@@ -64,8 +64,51 @@ Mermaid
   "Mathes":30
   "Political":10
   ```
-* garh
+---
+* graph
   ```mermaid
-  garh TB
+  graph TB
+  A(OPEN)--YES---B[ON]
+  A(OPEN)--NO---C{OFF}
+  B(ON)---D(END)
+  C(OFF)-->D(END)
+  ```
+---
+* ClassDiagram
+  ```mermaid
+  classDiagram
+  Animal <|-- fish
+  Animal <|-- cat
+  Animal <|-- pig
+  Animal <|-- mokey
+  Animal : +one
+  Animal : two()
+  class fish{
+    one
+    two()
+    three
+  }
+  class cat{
+    +one
+    -two
+    +three()
+  }
+  class pig{
+    null
+  }
+  class mokey{
+    nothing()
+  }
+  ```
+---
+* mermaid
+  ```mermaid
+  gantt
+  dateFormat DD
+  title work_project
+  section test
+  one:done,do1,01,02
+  two:done,do2,03,05
+  three:active,do3,after do2,5d
 
   ```
