@@ -1,124 +1,26 @@
-**one**
+# The history😀:
+* ***Diary*** is developed from ***Notebook1.0***. Because of the  code missing, I have to write again. So I rename it diary and 
+replan the update derection.
+* With my technical merit improving, I will add many new fuctions. Welcome to use it!
+
+Instructions💌:
 ===
-  * one
-  * two
-  * three
+1. First of all, input the diary title what you want and dont forget to add the suffix(**.txt** or **.log**).
+2. And then you should input the content.
+3. If you want to quit, enter the **q** in the next line.
 
-# one
-## two
-### three
-#### four
-##### five
-###### six
-
-
-two
+发展史😀：
 ===
-hello **one** word
+* **Diary**是从**Notebook1.0**发展来的，由于源码已丢失，所以重新写过，并改名为**Diary**，重新规划更新方向。
+* 随着我技术水平的提高，以后会有越来越多的功能，欢迎大家使用！
 
-two
+# 使用说明💌：
+1. 首先输入日记的标题,记得要加后缀(.txt或者.log)
+2. 接着就可以输入内容了。
+3. 如果想退出的话，可以直接在下一行输入**q**
 
-_one_
-
-```c++
-#include <iostream>
-using namespace std;
-int main(){
-    cout << "hello Markdown" << endl;
-    return 0;
-}
-```
-
-The url
----
-
-The url
-===
-**[two](#two)**
->* this is the two tile
->* hello world
->* hi world
-
-> Hello Markdown
-
-<div align=center><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp09%2F210F2130512J47-0-lp.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661785454&t=d8d1eeb7d0eebca198009c977ac817a4"/> </div>
+**下个版本：** 🤤
+*将内容写入数据库。。。*
 
 ---
-| one | two | three |
-|:---:|:---:| :---: |
-|nihao|hello|   hi  |
-
-- [x] one
-- [ ] `two`
-- [x] three
-
-
-
-Mermaid
-===
-* PIE
-  ```mermaid
-  pie
-  title Learning_plan
-  "English": 30
-  "Mathes":30
-  "Programming":40
-  ```
----
-* graph
-  ```mermaid
-  graph TB
-  A(OPEN)--YES---B[ON]
-  A(OPEN)--NO---C{OFF}
-  B(ON)---D(END)
-  C(OFF)-->D(END)
-  ```
----
-* ClassDiagram
-  ```mermaid
-  classDiagram
-  Animal <|-- fish
-  Animal <|-- cat
-  Animal <|-- pig
-  Animal <|-- mokey
-  Animal : +one
-  Animal : two()
-  class fish{
-    one
-    two()
-    three
-  }
-  class cat{
-    +one
-    -two
-    +three()
-  }
-  class pig{
-    null
-  }
-  class mokey{
-    nothing()
-  }
-  ```
----
-* mermaid
-  ```mermaid
-  gantt
-  dateFormat DD
-  title work_project
-
-  section First
-  one:done,do1,01,04
-  two:done,do2,07,10
-  three:active,do3,after do2,5d
-
-  section Second
-  four:active,do4,after do1,3d
-  five:done,do5,09,18
-
-  section Third
-  six:crit,31
-  seven:done,do6,09,14
-  
-  ```
-
+<div align=center><img src="https://img2.baidu.com/it/u=1032369359,809218880&fm=253&fmt=auto&app=120&f=JPEG?w=1024&h=576"/> </div>
