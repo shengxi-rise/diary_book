@@ -9,6 +9,9 @@ Instructions💌:
 2. And then you should input the content.
 3. If you want to quit, enter the **q** in the next line.
 
+**Next version:** 🤤
+*I want to use database to store content.*
+
 发展史😀：
 ===
 * **Diary**是从**Notebook1.0**发展来的，由于源码已丢失，所以重新写过，并改名为**Diary**，重新规划更新方向。
