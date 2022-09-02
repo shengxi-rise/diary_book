@@ -23,7 +23,7 @@ Instructions💌:
 3. 如果想退出的话，可以直接在下一行输入**q**
 
 **下个版本：** 🤤
-*将内容写入数据库。。。*
+*I will upgrade tomorrow, if i have spare time. Because i have to go to school tomorrow.*
 
 ---
 <div align=center><img src="https://img2.baidu.com/it/u=1032369359,809218880&fm=253&fmt=auto&app=120&f=JPEG?w=1024&h=576"/> </div>
